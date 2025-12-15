@@ -29,7 +29,7 @@ Evaluated 3 prompting approaches on Yelp reviews:
 ## Deployment Links
 - User Dashboard: https://ai-talent-aquisition-ry6pxqxjsiy8xzeknrz5sb.streamlit.app/
 - Admin Dashboard: https://ai-talent-aquisition-mdxrmqz2g677azbvnxvdwv.streamlit.app/
-- Assessment Report Link: https://drive.google.com/file/d/18x6Kp7499EtxBFVTS6gRukXZLcz8e5rK/view?usp=sharing
+- Assessment Report Link: https://drive.google.com/file/d/1tmOly7RZfk8hKCdQK4C3PTg5icSIc4Fd/view?usp=sharing
 ## Key Features
 - 3 prompt engineering techniques with evaluation
 - Interactive rating slider with step-by-step guidance
